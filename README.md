@@ -1,4 +1,4 @@
-# RL_Room_Temperature_Control
+# Reinforcement Learning Room Temperature Control Q-Learning vs DQN
 
 ## Project Overview
 
